@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(167, 207, 246);
+    color: rgb(6, 6, 6);
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .countdown {
+    margin-top: 100px;
+  }
+  
+  #timer span {
+    font-size: 2em;
+    margin: 0 10px;
+  }
+  
+  #timer {
+    display: inline-block;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
